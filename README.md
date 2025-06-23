@@ -1,4 +1,5 @@
 ## Hi there 👋
+![gojo](https://tenor.com/id/view/jujutsu-kaisen-ninjaristicninja-hollow-purple-gojo's-past-arc-jujutsu-kaisen-manga-gif-16970731562441494854)
 
 <!--
 **mkdm54/mkdm54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
