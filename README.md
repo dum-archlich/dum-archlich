@@ -32,7 +32,6 @@
 ### 📊 GitHub Stats & Activity
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mkdm54&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkdm54&theme=github-dark" height="150"/>
 </p>
 
 <p align="center">
@@ -41,9 +40,9 @@
 
 ---
 
-### 🌟 Contribution Calendar (SVG)
+### 🌟 Top Languages
 <p align="center">
-  <img src="https://github.com/mkdm54/mkdm54/raw/main/assets/contribution-calendar.svg" alt="GitHub Contribution Calendar" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdm54&layout=compact&theme=github_dark" />
 </p>
 
 ---
