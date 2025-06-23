@@ -1,5 +1,5 @@
 ## Hi there 👋
-![gojo](https://media.tenor.com/EqYrfImG2uQAAAAd/jujutsu-kaisen-ninjaristicninja.gif)
+![gojo](https://tenor.com/unOigcnEztO.gif)
 
 <!--
 **mkdm54/mkdm54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
