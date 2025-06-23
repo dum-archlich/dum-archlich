@@ -1,4 +1,10 @@
-## Makdum Ibrohim 🤖
+<!-- README.md GitHub Profile -->
+
+<h1 align="center">Hi there, I'm <span style="color:#ff5e57;">Makdum Ibrohim</span> 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Lifelong+Learner;Loves+Creative+Tech+%2B+Art" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mkdm54/mkdm54/main/assets/gojo.gif" alt="gojo" width="300" />
@@ -7,42 +13,49 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on: **Your current project**
-- 🌱 I’m currently learning: **Your learning topic (e.g., Flutter, Backend Flask, etc.)**
-- 👯 I’m looking to collaborate on: **Open-source / Community projects**
-- 💬 Ask me about: **Your expertise area**
-- 📫 How to reach me: **Your email / social links**
-- ⚡ Fun fact: I love combining tech + art (like this Gojo GIF 😎)
+- 🔭 Currently working on: `Easy PDF Flutter App`
+- 🌱 Currently learning: `Backend with Flask`
+- 👯 Open to collaborate on: `Open Source`, `Flutter`, `Education Projects`
+- 💬 Ask me about: `Flutter`, `PDF Processing`, `UI/UX`
+- 📫 Reach me at: [makdum.dev@gmail.com](mailto:makdum.dev@gmail.com)  
+- ⚡ Fun fact: I love mixing tech with art — like Gojo meets code 😎
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&color=47C5FB" />
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" />
-  <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26" />
-  <img src="https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=1572B6" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,js,git,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkdm54&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mkdm54&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkdm54&theme=github-dark" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mkdm54&theme=github-dark" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkdm54&theme=github-compact" />
+</p>
+
+---
+
+### 🧩 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mkdm54&theme=onedark&row=1&column=6" />
 </p>
 
 ---
 
 ### 📌 Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mkdm54&style=flat-square&color=blue" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=mkdm54&style=for-the-badge&color=0e75b6" alt="Profile Views" />
 </p>
 
 ---
 
-![snake](https://github.com/mkdm54/mkdm54/blob/output/github-snake-dark.svg)
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/mkdm54/mkdm54/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
