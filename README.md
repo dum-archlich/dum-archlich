@@ -1,4 +1,4 @@
-## Hi there 👋
+## Makdum Ibrohim
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mkdm54/mkdm54/main/assets/gojo.gif" alt="gojo" width="300" />
