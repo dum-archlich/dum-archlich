@@ -41,9 +41,9 @@
 
 ---
 
-### 🧩 GitHub Trophy
+### 🌟 Contribution Calendar (SVG)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mkdm54&theme=onedark&row=1&column=6" />
+  <img src="https://github.com/mkdm54/mkdm54/raw/main/assets/contribution-calendar.svg" alt="GitHub Contribution Calendar" />
 </p>
 
 ---
@@ -55,7 +55,6 @@
 
 ---
 
-### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/mkdm54/mkdm54/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
