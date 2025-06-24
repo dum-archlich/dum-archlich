@@ -54,6 +54,10 @@
 
 ---
 
+![xox](https://github.com/mkdm54/mkdm54/blob/main/game/catur.html)
+
+---
+
 <p align="center">
   <img src="https://github.com/mkdm54/mkdm54/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
