@@ -54,7 +54,8 @@
 
 ---
 
-<iframe align="center" src="https://mkdm54.github.io/mkdm54/game/catur.html" width="300" height="300"></iframe>
+### 🎵 Now Playing
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
