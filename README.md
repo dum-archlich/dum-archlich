@@ -54,7 +54,7 @@
 
 ---
 
-![xox](https://github.com/mkdm54/mkdm54/blob/main/game/catur.html)
+<iframe align="center" src="https://mkdm54.github.io/mkdm54/game/catur.html" width="300" height="300"></iframe>
 
 ---
 
