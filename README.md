@@ -22,6 +22,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/dum-archlich/dum-archlich/blob/output/github-snake-dark.svg" alt="snake gif" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,js,react,git,github,vscode" />
@@ -62,7 +68,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/dum-archlich/dum-archlich/blob/output/github-snake-dark.svg" alt="snake gif" />
-</p>
