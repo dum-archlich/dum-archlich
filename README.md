@@ -17,7 +17,7 @@
 - 🌱 Currently learning: `Backend with Flask`
 - 👯 Open to collaborate on: `Open Source`, `Flutter`, `Education Projects`
 - 💬 Ask me about: `Flutter`, `PDF Processing`, `UI/UX`
-- 📫 Reach me at: [makdum.dev@gmail.com](mailto:makdum.dev@gmail.com)  
+- 📫 Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com)  
 - ⚡ Fun fact: I love mixing tech with art — like Gojo meets code 😎
 
 ---
@@ -31,18 +31,18 @@
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkdm54&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dum-archlich&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mkdm54&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact" />
 </p>
 
 ---
 
 ### 🌟 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkdm54&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dum-archlich&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/mkdm54/mkdm54/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/dum-archlich/dum-archlich/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
