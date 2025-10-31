@@ -1,20 +1,27 @@
 <!-- README.md GitHub Profile -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=header"/>
+</p>
 
-<h1 align="center">Hi there, I'm <span style="color:#ff5e57;">Makdum Ibrohim</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#00bfff;">Makdum Ibrohim</span> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Lifelong+Learner;Loves+Creative+Tech+%2B+Art" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkdm54/mkdm54/main/assets/gojo.gif" alt="gojo" width="300" />
+  <img src="https://raw.githubusercontent.com/mkdm54/mkdm54/main/assets/gojo.gif" alt="gojo" width="500" />
 </p>
 
 ---
 
 ### ꩜ .ᐟ About Me
+<!-- <p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" st alt="Coding Girl" />
+</p> -->
+
 - Still learning and always exploring new things.
-- ✉︎ Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com)  
+- ✉︎ Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com) 
 
 ---
 
@@ -42,6 +49,13 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dum-archlich&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
+
+---
+
 ### ── .✦ Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dum-archlich&layout=compact&theme=github_dark" />
@@ -63,4 +77,6 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer"/>
+</p>
