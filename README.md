@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mkdm54/mkdm54/main/assets/gojo.gif" alt="gojo" width="500" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21seDVtbG4wOWlwODBrbHc0bnJvb2Y4aHd3ZTJ4dXBqNWM1eDc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJdCZIIKKtqI4s8/giphy.gif" width="500" />
 </p>
+
 
 ---
 
