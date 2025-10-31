@@ -1,12 +1,12 @@
 <!-- README.md GitHub Profile -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=100&section=header"/>
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#00bfff;">Makdum Ibrohim</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#00B8FF;">Makdum Ibrohim</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Lifelong+Learner;Loves+Creative+Tech+%2B+Art" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Lifelong+Learner;Loves+Creative+Tech+%2B+Art" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -78,5 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=100&section=footer"/>
 </p>
