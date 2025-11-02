@@ -17,9 +17,6 @@
 ---
 
 ### ꩜ .ᐟ About Me
-<!-- <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" st alt="Coding Girl" />
-</p> -->
 
 - Still learning and always exploring new things.
 - ✉︎ Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com) 
