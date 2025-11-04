@@ -52,6 +52,7 @@
 <p align="center">
   <img src="github-metric.svg" alt="GitHub Metrics" />
 </p>
+
 ---
 
 ### 🏆 GitHub Trophies
