@@ -41,9 +41,9 @@
 ---
 
 ### ᯓ★ GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dum-archlich&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
-</p>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dumarchlich&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact" />
