@@ -53,13 +53,6 @@
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-
-
-### ── .✦ Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dum-archlich&layout=compact&theme=github_dark" />
-</p>
-
 ### ♫ Now Playing
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
