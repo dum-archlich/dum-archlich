@@ -1,20 +1,24 @@
 <!-- README.md GitHub Profile -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=100&section=header"/>
-</p>
+</p> -->
 
-<h1 align="center">Hi there, I'm <span style="color:#00B8FF;">Makdum Ibrohim</span> 👋</h1>
+<div align="center">
+    <p>
+        <img align="center" alt="count" src="https://count.getloli.com/@ShirokamiRyzen?name=ShirokamiRyzen&theme=booru-lewd">
+    </p>
+</div>
 
-<p align="center">
+<h1 align="center">Hi there!
+
+
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Lifelong+Learner;Loves+Creative+Tech+%2B+Art" alt="Typing SVG" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21seDVtbG4wOWlwODBrbHc0bnJvb2Y4aHd3ZTJ4dXBqNWM1eDc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJdCZIIKKtqI4s8/giphy.gif" width="500" />
-</p>
-
-
----
+</p> -->
 
 ### ꩜ .ᐟ About Me
 
