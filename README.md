@@ -5,7 +5,7 @@
 
 <div align="center">
     <p>
-        <img align="center" alt="count" src="https://count.getloli.com/@ShirokamiRyzen?name=ShirokamiRyzen&theme=booru-lewd">
+        <img align="center" alt="count" src="https://count.getloli.com/@dum-archlich?name=dum-archlich&theme=booru-lewd">
     </p>
 </div>
 
