@@ -49,6 +49,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact" />
 </p>
 
+<p align="center">
+  <img src="github-metric.svg" alt="GitHub Metrics" />
+</p>
+
 ---
 
 ### 🏆 GitHub Trophies
