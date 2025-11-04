@@ -50,31 +50,15 @@
 </p>
 
 <p align="center">
-  <img src="github-metric.svg" alt="GitHub Metrics" />
+  <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
----
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dum-archlich&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
-
----
 
 ### ── .✦ Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dum-archlich&layout=compact&theme=github_dark" />
 </p>
-
----
-
-### 👁 Visitors
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dum-archlich&style=for-the-badge&color=0e75b6" alt="Profile Views" />
-</p>
-
----
 
 ### ♫ Now Playing
 <p align="center">
