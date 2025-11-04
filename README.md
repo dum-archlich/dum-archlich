@@ -9,7 +9,7 @@
     </p>
 </div>
 
-<h1 align="center">Hi there!
+<h1 align="center">Hi there! </h1>
 
 
 <!-- <p align="center">
@@ -20,7 +20,7 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21seDVtbG4wOWlwODBrbHc0bnJvb2Y4aHd3ZTJ4dXBqNWM1eDc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJdCZIIKKtqI4s8/giphy.gif" width="500" />
 </p> -->
 
-<h3 align="center">꩜ .ᐟ About Me</h3>
+<h2 align="center">꩜ .ᐟ About Me</h2>
 
 - Still learning and always exploring new things.
 - ✉︎ Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com) 
@@ -33,14 +33,14 @@
 
 ---
 
-<h3 align="center">🛠 Tech Stack</h3>
+<h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,js,react,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-<h3 align="center">ᯓ★ GitHub Stats & Activity</h3>
+<h2 align="center">ᯓ★ GitHub Stats & Activity</h2>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dumarchlich&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" /></div>
 <br>
@@ -53,7 +53,7 @@
   <img src="github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
-<h3 align="center">♫ Now Playing</h3>
+<h2 align="center">♫ Now Playing</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" />
