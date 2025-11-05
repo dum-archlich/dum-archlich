@@ -26,14 +26,12 @@
 
 <h2 align="center">꩜ .ᐟ About Me</h2>
 
-<img align="left" src="assets/kiw.gif" width="130px"/>
-
-<br>
+<img align="left" src="assets/kiw.gif" width="130px" style="margin-right: 20px;"/>
 
 ```yaml
 My Profile
 -------------------------------
-Host: dev.ryzumi.vip
+Host: just-about-me.vercel.app
 Username: dum-archlich
 Whoami: Normal People.
 Languages: Indonesia & English
