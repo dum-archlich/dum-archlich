@@ -23,7 +23,7 @@
 <h2 align="center">꩜ .ᐟ About Me</h2>
 
 - Still learning and always exploring new things.
-- ✉︎ Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com) 
+<!-- - ✉︎ Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com)  -->
 
 ---
 
@@ -37,8 +37,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,js,react,git,github,vscode&perline=6" />
 </p>
-
----
 
 <h2 align="center">ᯓ★ GitHub Stats & Activity</h2>
 
@@ -56,7 +54,7 @@
 <h2 align="center">♫ Now Playing</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" />
+    <img src="https://sppinotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" />
   </a>
 </p>
 
