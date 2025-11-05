@@ -26,6 +26,21 @@
 
 <h2 align="center">꩜ .ᐟ About Me</h2>
 
+<img align="left" src="assets/kiw.gif" width="130px"/>
+
+```yaml
+My Profile
+-------------------------------
+Host: dev.ryzumi.vip
+Username: dum-archlich
+Whoami: Normal People.
+Languages: Indonesia & English
+Pronouns: Ja/Wir.
+Location: Jawa Timur, Indonesia.
+Hobbies: Watching Anime, Reading, Listening Music.
+
+```
+
 ---
 
 <p align="center">
