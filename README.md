@@ -31,7 +31,7 @@
 ```yaml
 My Profile
 -------------------------------
-Host: just-about-me.vercel.app
+Host: dum-archlich.vercel.app
 Username: dum-archlich
 Whoami: Normal People.
 Languages: Indonesia & English
