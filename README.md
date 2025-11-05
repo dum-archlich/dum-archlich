@@ -11,6 +11,7 @@
 
 <h1 align="center">Hi there! </h1>
 
+<p align="center">I'm a beginner developer who loves real-time strategy games and exploring new technologies.</p>
 
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00B8FF&center=true&vCenter=true&width=435&lines=Flutter+Developer;Python+Enthusiast;Lifelong+Learner;Loves+Creative+Tech+%2B+Art" alt="Typing SVG" />
@@ -20,10 +21,10 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21seDVtbG4wOWlwODBrbHc0bnJvb2Y4aHd3ZTJ4dXBqNWM1eDc4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6fJdCZIIKKtqI4s8/giphy.gif" width="500" />
 </p> -->
 
-<h2 align="center">꩜ .ᐟ About Me</h2>
 
-- Still learning and always exploring new things.
 <!-- - ✉︎ Reach me at: [mkdmvx9@gmail.com](mailto:mkdmvx9@gmail.com)  -->
+
+<h2 align="center">꩜ .ᐟ About Me</h2>
 
 ---
 
