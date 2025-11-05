@@ -47,7 +47,6 @@ Hobbies: Watching Anime, Reading, Listening Music.
   <img src="https://github.com/dum-archlich/dum-archlich/blob/output/github-snake-dark.svg" alt="snake gif" />
 </p>
 
----
 
 <h2 align="center">🧠 Knowledge</h2>
 <p align="center">
