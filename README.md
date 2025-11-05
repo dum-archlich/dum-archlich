@@ -48,7 +48,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 </p>
 
 
-<h2 align="center">🧠 Knowledge</h2>
+<h2 align="center">ᝰ.ᐟ Knowledge</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,python,html,css,js,react,git,github,vscode&perline=6" />
 </p>
