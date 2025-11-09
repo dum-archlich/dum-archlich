@@ -56,7 +56,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <h2 align="center">ᯓ★ GitHub Stats & Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dumarchlich&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@dumarchlich&card_width=300&bg_color=21232a&title_color=61dafb&text_color=ffffff&hide_border=true" align="center" />
 </div>
 <br>
 
