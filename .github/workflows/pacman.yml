@@ -29,5 +29,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
+          destination_dir: pacman
           keep_files: true
           commit_message: "Update pacman graph [skip ci]"
