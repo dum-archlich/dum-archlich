@@ -76,7 +76,9 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 <h2 align="center">♫ Now Playing</h2>
 <p align="center">
-  <img src="https://dum-archlich.github.io/spotify-now-playing/now-playing.svg" alt="Now Playing" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" />
+  </a>
 </p>
 
 <p align="center">
