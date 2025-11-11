@@ -43,11 +43,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dum-archlich/dum-archlich/output/pacman-contribution-graph-dark.svg">
-</picture>
-
-<img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dum-archlich/dum-archlich/output/pacman-contribution-graph.svg">
+<img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/dum-archlich/dum-archlich/output/pacman-contribution-graph-dark.svg">
 
 <p align="center">
   <img src="https://github.com/dum-archlich/dum-archlich/blob/output/github-snake-dark.svg" alt="snake gif" />
