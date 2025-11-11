@@ -70,12 +70,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 
 <h2 align="center">♫ Now Playing</h2>
 <p align="center">
-  <!-- Nothing weird to see here -->
-  <a href="https://readme.andyruwruw.com/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://raw.githubusercontent.com/dum-archlich/andyruwruw/master/example/now-playing.svg">
-    <!-- This is how you'd make the call dynamically <img src="https://readme.andyruwruw.com/api/now-playing"> -->
-  </a>
+  <img src="https://dum-archlich.github.io/spotify-now-playing/now-playing.svg" alt="Now Playing" />
 </p>
 
 <p align="center">
