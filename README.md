@@ -63,7 +63,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact&line=f50f8a" />
 </p>
 
 <p align="center">
