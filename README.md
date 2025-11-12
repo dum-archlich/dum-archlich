@@ -63,7 +63,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact&line=f50f8a" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact&line=f67202" />
 </p>
 
 <p align="center">
@@ -78,5 +78,5 @@ Hobbies: Watching Anime, Reading, Listening Music.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f67202&height=100&section=footer"/>
 </p>
