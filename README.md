@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00B8FF&height=100&section=header"/>
 </p> -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2b5adc&height=90&section=header"/>
+</p>
+
 <div align="center">
     <p>
         <img align="center" alt="count" src="https://count.getloli.com/@dum-archlich?name=dum-archlich&theme=rule34">
@@ -63,7 +67,7 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact&line=f67202" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dum-archlich&theme=github-compact&line=2b5adc" />
 </p>
 
 <p align="center">
@@ -73,10 +77,10 @@ Hobbies: Watching Anime, Reading, Listening Music.
 <h2 align="center">♫ Now Playing</h2>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31xmneitprzk52zpfmyd6nawt27e&cover_image=true&theme=novatorem&show_offline=false&background_color=2b5adc&interchange=false" alt="spotify-github-profile" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f67202&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2b5adc&height=90&section=footer"/>
 </p>
